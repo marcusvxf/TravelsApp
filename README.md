@@ -2,7 +2,6 @@
 <!--ts-->
    * [Sobre](#Sobre)
    * [Tecnologias](#Tecnologias)
-   * [ComoUsar](#ComoUsar)
 <!--te-->
 <h3 href="#Sobre" >Sobre</h3>
 <p align="start">Um App para criar suas viagens e organizar o que precisa ser feito pra elas, é um app com foco em aprender novas tecnologias</p>
