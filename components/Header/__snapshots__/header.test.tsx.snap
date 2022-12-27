@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Header Rendered 1`] = `
+<View
+  style={
+    Object {
+      "marginBottom": 16,
+      "marginLeft": 16,
+      "marginTop": 48,
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "fontSize": 30,
+          "lineHeight": 36,
+        },
+        Object {
+          "fontWeight": "800",
+        },
+        Object {
+          "color": "#000",
+        },
+      ]
+    }
+  >
+    Proxima pagina
+  </Text>
+</View>
+`;
