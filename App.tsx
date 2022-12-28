@@ -6,6 +6,7 @@ import {Image} from 'react-native';
 import Home from './pages/Home';
 import TabBar from './components/TabBar';
 import Archived from './pages/Archived';
+import HomeStack from './pages/Home/homeStack';
 
 const Stack = createBottomTabNavigator();
 
@@ -23,7 +24,7 @@ const App = () => {
         })}>
         <Stack.Screen
           name="Home"
-          component={Home}
+          component={HomeStack}
           options={{
             headerShown: false,
 

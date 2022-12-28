@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../../components/Header';
 import HomeCard from '../../components/HomeCards';
 import {HomeStyles} from './styles';
-import {View, ScrollView, SafeAreaView} from 'react-native';
+import {ScrollView, SafeAreaView} from 'react-native';
 
 const Home = () => {
   return (
