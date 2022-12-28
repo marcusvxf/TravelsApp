@@ -4,7 +4,8 @@ EStyleSheet.build();
 export const HomeStyles = EStyleSheet.create({
   wrapper: {
     width: '100%',
-    height: '70%',
+    height: '84%',
+    // backgroundColor: 'black',
     marginTop: '1rem',
   },
 });
